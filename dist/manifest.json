@@ -1,0 +1,11 @@
+{
+  "packageName": "w3-atomic-extension",
+  "name": "W3 Atomic Extension",
+  "description": "",
+  "version": "0.1.0",
+  "platforms": [
+    "web"
+  ],
+  "moduleURL": "./main.js",
+  "readmeURL": "./README.md"
+}
